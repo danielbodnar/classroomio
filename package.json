@@ -29,7 +29,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "turbo": "^1.10.16"
+    "turbo": "^2.9.14"
   },
   "devDependencies": {
     "@babel/plugin-syntax-jsx": "^7.28.6",

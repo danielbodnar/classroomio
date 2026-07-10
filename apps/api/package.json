@@ -56,11 +56,11 @@
     "@scalar/hono-api-reference": "^0.9.18",
     "@sentry/node": "^10.53.1",
     "ai": "^6.0.158",
-    "axios": "^1.4.0",
+    "axios": "^1.16.0",
     "css-tree": "^3.2.1",
     "dotenv": "^16.3.1",
     "drizzle-orm": "^0.44.7",
-    "hono": "^4.11.3",
+    "hono": "^4.12.25",
     "hono-openapi": "^1.0.8",
     "hono-rate-limiter": "^0.4.2",
     "isomorphic-dompurify": "^3.7.1",
@@ -83,7 +83,7 @@
     "tsc-alias": "^1.8.16",
     "tsx": "^4.7.1",
     "typescript": "^5.5.2",
-    "vitest": "^1.2.2",
+    "vitest": "^3.2.6",
     "wrangler": "4.21.x"
   }
 }
