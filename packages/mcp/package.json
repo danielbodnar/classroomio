@@ -44,7 +44,7 @@
   "devDependencies": {
     "@cio/tsconfig": "workspace:*",
     "@types/node": "^24.10.1",
-    "esbuild": "^0.25.11",
+    "esbuild": "^0.28.1",
     "tsx": "^4.20.3",
     "typescript": "^5.9.3",
     "zod": "^4.1.8"
